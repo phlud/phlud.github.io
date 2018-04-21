@@ -2,4 +2,4 @@
 
 <h3>Greetings! </h3>
 
-Welcome to my crappy little git site. :]
+Welcome to my ^.*\b(cr|h)\b.*$appy little git site. :]
